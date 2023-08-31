@@ -54,7 +54,6 @@ print(response.text)
 
 ## Contact
 dropout - [@explosives](https://t.me/explosives) - dropout@fbi.ac
-Website: [https://proxies.cx](https://proxies.cx/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
